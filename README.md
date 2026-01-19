@@ -37,10 +37,10 @@ I focus on creating high-utility software and automation solutions.
 
 <p align="center">
   <b>Let's Connect</b><br>
-  <a href="https://x.com/devmedmitch">
+  <a href="https://x.com/ourwearhouse">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow"/>
   </a>
-  <a href="https://github.com/devmedmitch">
+  <a href="https://github.com/lilybyt">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"/>
   </a>
 </p>
